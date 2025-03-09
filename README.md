@@ -4,25 +4,17 @@ Ce projet implémente le jeu **Tic Tac Toe** en Java.
 
 ## Prérequis
 
-Installez la **version 1.8** de **Java**.\
-\
-Assurez-vous d'avoir le Java Development Kit (**JDK**) installé.\
+Installez la **version 1.8** ou supérieure de **Java** runtime.\
 \
 Clonez ou téléchargez le dépôt sur votre machine locale.
 
-## Compilation
-
-Pour compiler le fichier source *TicTacToe.java*, assurez-vous d'être dans le répertoire "src", puis utilisez la commande suivante dans le terminal :
-
-`javac TicTacToe.java`
-
 ## Exécution
 
-Pour exécuter le programme, utilisez la commande suivante dans le terminal :
+Pour exécuter le programme, allez dans le répertoire bin et lancez la commande suivante dans le terminal :
 
 `java TicTacToe`
 
-Il est également possible de spécifier la taille de la grille en argument lors de l'exécution du programme. Par exemple, pour une grille de taille 5x5, vous pouvez utiliser la commande suivante :
+Il est également possible de spécifier la taille de la grille en argument lors de l'exécution du programme. Par exemple, pour une grille de taille 5x5, vous pouvez lancer la commande suivante :
 
 `java TicTacToe 5`
 
